@@ -8,8 +8,10 @@ function game(questions, rightAnswers, rules) {
   for (let i = 0; i < 3; i += 1) {
     const question = questions[i].join(' ');
     const rightAnswer = rightAnswers[i];
+
     console.log(`Question: ${question}`);
     const answer = readlineSync.question('');
+
     if (answer === rightAnswer) {
       console.log('Correct!');
       score += 1;
