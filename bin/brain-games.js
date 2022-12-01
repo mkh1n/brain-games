@@ -1,5 +1,7 @@
 #!/usr/bin/env node
+import evenGame from './brain-even.js';
 import getName from '../src/cli.js';
 
 console.log('Welcome to the Brain Games!');
-getName();
+const name = getName();
+evenGame(name);
