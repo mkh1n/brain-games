@@ -6,6 +6,7 @@ for (let i = 0; i < 3; i += 1) {
     if (questions[i] % j === 0) {
       rightAnswers.push('no');
     }
-  } rightAnswers.push('yes');
+  }
+  rightAnswers.push('yes');
 }
 export { questions, rightAnswers, rules };
