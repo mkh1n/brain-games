@@ -1,4 +1,15 @@
-### Hexlet tests and linter status:
+
+Brain games
+========================
+The game "Brain games" consists of several modules, each of which is a simple mathematical game
+* проверка на четность `brain-even`
+* brain-calc
+* brain-gcd
+* brain-progression
+* brain-prime 
+ - Элемент списка, содержащий исходный код
+
+		<исходный код >  
 [![Actions Status](https://github.com/moxa-rumin/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/moxa-rumin/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 even<br>
