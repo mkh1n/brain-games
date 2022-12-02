@@ -9,11 +9,11 @@ Brain games
 The game "Brain games" consists of several modules, each of which is a simple mathematical game.
 Each game is started with a specific command. The player must give the correct answer three times in a row, otherwise the game will end.
 
-* `brain-even` Number parity detection [➜](#brain-even)
-* `brain-calc` Calculator game [➜](#brain-calc)
-* `brain-gcd` Finding the gratest common divisor of a pair of numbers [➜](#brain-gcd)
-* `brain-progression` Detection of a missing link in the arithmetic progression [➜](#brain-progression)
-* `brain-prime` Prime number detection [➜](#brain-prime)
+* `brain-even` Number parity detection
+* `brain-calc` Calculator game
+* `brain-gcd` Finding the gratest common divisor of a pair of numbers
+* `brain-progression` Detection of a missing link in the arithmetic progression
+* `brain-prime` Prime number detection
 
 ## Installation and first launch ##
 
