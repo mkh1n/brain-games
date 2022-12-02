@@ -9,3 +9,5 @@ gcd<br>
 [![asciicast](https://asciinema.org/a/adx14zHs4PvnHFndRgrLlbHzr.svg)](https://asciinema.org/a/adx14zHs4PvnHFndRgrLlbHzr)
 progression
 [![asciicast](https://asciinema.org/a/AKdyTN0lTmzVMj9an5QuoM4FV.svg)](https://asciinema.org/a/AKdyTN0lTmzVMj9an5QuoM4FV)
+prime 
+[![asciicast](https://asciinema.org/a/1Bq9qcNJXYW6FsRm2gqQKpFoS.svg)](https://asciinema.org/a/1Bq9qcNJXYW6FsRm2gqQKpFoS)

@@ -8,12 +8,12 @@ function findGcd(A, B) {
 }
 const questions = [];
 const rightAnswers = [];
+const rules = 'Find the greatest common divisor of given numbers.';
 
 for (let i = 0; i < 3; i += 1) {
   const temp = [Math.floor(Math.random() * 100) + 1, Math.floor(Math.random() * 100) + 1];
   questions.push(temp);
 }
-const rules = 'Find the greatest common divisor of given numbers.';
 for (let i = 0; i < 3; i += 1) {
   rightAnswers.push(String(findGcd(questions[i][0], questions[i][1])));
 }
