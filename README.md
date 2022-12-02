@@ -17,7 +17,7 @@ Each game is started with a specific command. The player must give the correct a
 
 ## Installation and first launch ##
 
-Сlone the repository to a local pc and enter this command in the root of the repository:
+Download zip-file to a local pc, extract it, and enter this command in the root of the project:
 
     $ sudo npm link
 [![asciicast](https://asciinema.org/a/ER0BnyuTA7jZQDg3FpwAgAw0G.svg)](https://asciinema.org/a/ER0BnyuTA7jZQDg3FpwAgAw0G)
