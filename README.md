@@ -17,9 +17,13 @@ Each game is started with a specific command. The player must give the correct a
 
 ## Installation and first launch ##
 
-Clone repository to a local pc and enter this command in the root of the foder with game
+Clone repository to a local pc and run these commands in the root of the foder with game
 
-    $ sudo npm link
+	$ make install
+  	$ sudo npm link
+
+Congrats! Now you can run game commands in any directory of your PC.
+
 [![asciicast](https://asciinema.org/a/ER0BnyuTA7jZQDg3FpwAgAw0G.svg)](https://asciinema.org/a/ER0BnyuTA7jZQDg3FpwAgAw0G)
 
 ---
